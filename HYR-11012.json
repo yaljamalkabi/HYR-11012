@@ -1,0 +1,12 @@
+{
+    "job_templates": {
+        "download_job_templates": "settings.job_templates.download_job_templates",
+                "create_new": "settings.job_templates.create_new_template",
+                "delete_content": "settings.job_templates.delete_form_modal_text",
+                "job_template_deleted_successfully": "settings.job_templates.deleted_successfully",
+                "job_template_restored_successfully": "settings.job_templates.restored_successfully",
+                "job_template_restored_successfully": "settings.job_templates.restored_successfully",
+
+        
+    }
+}
